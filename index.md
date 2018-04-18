@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Välkommen till GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AlexAho99/AlexAho99.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Du kan använda [redaktören på GitHub] (https://github.com/AlexAho99/AlexAho99.github.io/edit/master/index.md) för att behålla och förhandsgranska innehållet för din webbplats i Markdown-filer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+När du åtar dig till detta repository, kör GitHub Pages (Jekyll) (https://jekyllrb.com/) för att bygga om sidorna på din webbplats, från innehållet i dina Markdown-filer.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown är en lätt och lättanvänd syntax för styling av ditt skrivande. Det innehåller konventioner för
 
-```markdown
-Syntax highlighted code block
+'' 'Markdown
+Syntax markerat kodblock
 
-# Header 1
+# Rubrik 1
 ## Header 2
-### Header 3
+### Rubrik 3
 
 - Bulleted
-- List
+- Lista
 
-1. Numbered
-2. List
+1. Numrerad
+2. Lista
 
-**Bold** and _Italic_ and `Code` text
+** Bold ** och _Italic_ och `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Länk] (url) och! [Bild] (src)
+'' '
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+För mer information se [GitHub Flavored Markdown] (https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll-teman
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexAho99/AlexAho99.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+På din webbplats-sida kommer du att använda layout och stilar från det Jekyll-tema du har valt i dina [förvaringsinställningar] (https://github.com/AlexAho99/AlexAho99.github.io/settings). Namnet på det här temat sparas i konfigurationsfilen Jekyll `_config.yml`.
 
-### Support or Contact
+### Stöd eller kontakt
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Har du problem med sidor? Kolla in vår [dokumentation] (https://help.github.com/categories/github-pages-basics/) eller [kontakta support] (https://github.com/contact) och vi hjälper dig att sortera det ut.

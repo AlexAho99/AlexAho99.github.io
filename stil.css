@@ -1,0 +1,31 @@
+@charset "utf-8"; 
+ 
+/* xd */
+body{
+  background-color: #7c7c7c;
+  font-family: 'Russo One', sans-serif;
+  text-align: left;
+}
+/* Denna regel gäller för flera olika element */
+h2, p, img, p1, h3{
+}
+h1{
+  color: #ffffff;
+  font-size: 40px;
+}
+h2{
+  color: #ffffff;
+  font-size: 2em;
+}
+
+a{
+	color: blue;
+}
+p1{
+	font-size: 1.25em;
+	color: #000000;
+}
+h3{
+	font-size: 1.25em;
+	color: #ffffff;
+}
